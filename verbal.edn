@@ -1,0 +1,175 @@
+[{:topic :verbal-logic,
+  :bahas "Kata benda konkret adalah kata benda yang dapat ditangkap panca indera, sedangkan kata benda abstrak tidak.",
+  :soal
+  {:soal-text "killua jual bakiak dengan emak. killua ialah kata...",
+   :options [[false "kata benda abstrak." 0] [true "kata benda konkret." 1] [false "bukan kata benda." 2]],
+   :jawaban "B"},
+  :problem-id "508dbd21047448a5ab38dd404b68506b"}
+ {:topic :verbal-logic,
+  :bahas "Kata benda konkret adalah kata benda yang dapat ditangkap panca indera, sedangkan kata benda abstrak tidak.",
+  :soal
+  {:soal-text "levi beli bakiak untuk kakak. levi adalah kata...",
+   :options [[false "bukan kata benda." 0] [true "kata benda konkret." 1] [false "kata benda abstrak." 2]],
+   :jawaban "B"},
+  :problem-id "85ff1bd9cbf24b798e1dbe9752c97587"}
+ {:topic :verbal-logic,
+  :bahas "Kata benda konkret adalah kata benda yang dapat ditangkap panca indera, sedangkan kata benda abstrak tidak.",
+  :soal
+  {:soal-text "eren jual sajadah bersama babeh. eren ialah kata...",
+   :options [[false "kata benda abstrak." 0] [false "bukan kata benda." 1] [true "kata benda konkret." 2]],
+   :jawaban "C"},
+  :problem-id "e76f32d85780492f86046cd958e61883"}
+ {:topic :verbal-logic,
+  :bahas "Kata benda konkret adalah kata benda yang dapat ditangkap panca indera, sedangkan kata benda abstrak tidak.",
+  :soal
+  {:soal-text "gon jual sajadah dengan emak. gon merupakan kata...",
+   :options [[false "kata benda abstrak." 0] [false "bukan kata benda." 1] [true "kata benda konkret." 2]],
+   :jawaban "C"},
+  :problem-id "fb8ef4fc50214da1a54c26366566ddb1"}
+ {:topic :verbal-logic,
+  :bahas "Kata benda konkret adalah kata benda yang dapat ditangkap panca indera, sedangkan kata benda abstrak tidak.",
+  :soal
+  {:soal-text "killua beli sajadah bareng babeh. killua adalah kata...",
+   :options [[false "bukan kata benda." 0] [false "kata benda abstrak." 1] [true "kata benda konkret." 2]],
+   :jawaban "C"},
+  :problem-id "9c2fca6995fb4e18b887294de1001b9a"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "handphone mahal.  bentuk di atas adalah...",
+   :options [[false "pernyataan." 0] [true "nonpernyataan." 1]],
+   :jawaban "B"},
+  :problem-id "8f1a216f7adc498f8a1c2ea326ace659"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "laptop mewah.  bentuk di atas adalah...",
+   :options [[true "nonpernyataan." 0] [false "pernyataan." 1]],
+   :jawaban "A"},
+  :problem-id "ba351711d5ce4a57bc0cf7bc6b96f1aa"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "handphone mahal.  bentuk di atas adalah...",
+   :options [[false "pernyataan." 0] [true "nonpernyataan." 1]],
+   :jawaban "B"},
+  :problem-id "c360d0ca509b4b05a925cfc8ca11edbb"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "laptop mewah.  bentuk di atas adalah...",
+   :options [[false "pernyataan." 0] [true "nonpernyataan." 1]],
+   :jawaban "B"},
+  :problem-id "38cf98fbb80b46ffb98fad63d9e4bd2a"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "laptop mahal.  bentuk di atas yaitu...",
+   :options [[false "pernyataan." 0] [true "nonpernyataan." 1]],
+   :jawaban "B"},
+  :problem-id "a93d171db21d42a0bfffc65368b6138f"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "lukisan hitam.  bentuk di atas adalah...",
+   :options [[false "pernyataan." 0] [true "nonpernyataan." 1]],
+   :jawaban "B"},
+  :problem-id "af695149f3824b919446323b22f5e67d"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "rumah mewah.  bentuk di atas adalah...",
+   :options [[false "pernyataan." 0] [true "nonpernyataan." 1]],
+   :jawaban "B"},
+  :problem-id "752f51cdffee4b7cb9d24bf8a89c15ea"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "laptop mahal.  bentuk di atas adalah...",
+   :options [[false "pernyataan." 0] [true "nonpernyataan." 1]],
+   :jawaban "B"},
+  :problem-id "f4eeb3edd75a4d0dbdfd8d65c908d381"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "lukisan kotor.  bentuk di atas adalah...",
+   :options [[false "pernyataan." 0] [true "nonpernyataan." 1]],
+   :jawaban "B"},
+  :problem-id "f877f5519f4746ce9907c7cf3c1050e8"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "handphone hitam.  bentuk di atas adalah...",
+   :options [[true "nonpernyataan." 0] [false "pernyataan." 1]],
+   :jawaban "A"},
+  :problem-id "98007d11eb284229bbc80627fcabf1f5"}
+ {:topic :verbal-logic,
+  :bahas "Gampang aja, perhatikan susunan kalimatnya ya. ",
+  :soal
+  {:soal-text
+   "Joni adalah seorang montir, jadi Joni itu orang yang terampil. Kalimat manakah yang diperlukan untuk melengkapi argumen?",
+   :options
+   [[true "semua montir itu orang yang terampil." 0]
+    [false "sebagian montir itu orang yang terampil." 1]
+    [false "sebagian orang yang terampil itu montir." 2]
+    [false "argumen sudah lengkap" 3]],
+   :jawaban "A"},
+  :problem-id "5ad74d4ad2cf446e98f16b0d8991f3bb"}
+ {:topic :verbal-logic,
+  :bahas "Gampang aja, perhatikan susunan kalimatnya ya. ",
+  :soal
+  {:soal-text
+   "Aulia adalah seorang supir, jadi Aulia itu orang yang punya uang. Kalimat manakah yang diperlukan untuk melengkapi argumen?",
+   :options
+   [[true "semua supir itu orang yang punya uang." 0]
+    [false "argumen sudah lengkap" 1]
+    [false "sebagian orang yang punya uang itu supir." 2]
+    [false "sebagian supir itu orang yang punya uang." 3]],
+   :jawaban "A"},
+  :problem-id "5f8d7fade28d4845887f8d3798626e4c"}
+ {:topic :verbal-logic,
+  :bahas "Gampang aja, perhatikan susunan kalimatnya ya. ",
+  :soal
+  {:soal-text
+   "Rachel adalah seorang nelayan, jadi Rachel itu orang yang berkecukupan. Kalimat manakah yang diperlukan untuk melengkapi argumen?",
+   :options
+   [[false "argumen sudah lengkap" 0]
+    [false "sebagian orang yang berkecukupan itu nelayan." 1]
+    [true "semua nelayan itu orang yang berkecukupan." 2]
+    [false "sebagian nelayan itu orang yang berkecukupan." 3]],
+   :jawaban "C"},
+  :problem-id "8db4fa69c57a4e3ba3e66afb09d0c7dd"}
+ {:topic :verbal-logic,
+  :bahas "Gampang aja, perhatikan susunan kalimatnya ya. ",
+  :soal
+  {:soal-text
+   "Aulia adalah seorang ayah, jadi Aulia itu orang yang berkecukupan. Untuk melengkapi argumen, kalimat mana yang diperlukan?",
+   :options
+   [[false "argumen sudah lengkap" 0]
+    [false "sebagian ayah itu orang yang berkecukupan." 1]
+    [false "sebagian orang yang berkecukupan itu ayah." 2]
+    [true "semua ayah itu orang yang berkecukupan." 3]],
+   :jawaban "D"},
+  :problem-id "00052efd4e5846da866061b110055f7f"}
+ {:topic :verbal-logic,
+  :bahas "Gampang aja, perhatikan susunan kalimatnya ya. ",
+  :soal
+  {:soal-text
+   "Leo adalah seorang ayah, jadi Leo itu orang yang terampil. Untuk melengkapi argumen, kalimat mana yang diperlukan?",
+   :options
+   [[false "argumen sudah lengkap" 0]
+    [true "semua ayah itu orang yang terampil." 1]
+    [false "sebagian orang yang terampil itu ayah." 2]
+    [false "sebagian ayah itu orang yang terampil." 3]],
+   :jawaban "B"},
+  :problem-id "8c35597aefb242a8b5bdd4d34cac9ab3"}]

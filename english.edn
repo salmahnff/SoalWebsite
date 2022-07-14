@@ -1,0 +1,56 @@
+[{:topic :english,
+  :bahas "Dalam bahasa inggris, pemanggang roti disebut toaster yaa.",
+  :soal
+  {:soal-text "Apa bahasa inggris pemanggang roti ?",
+   :options [[false "gas stove" 0] [false "flashlight" 1] [true "toaster" 2] [false "washing machine" 3]],
+   :jawaban "C"},
+  :problem-id "05abd57624824021b3eb00ddd35509e3"}
+ {:topic :english,
+  :bahas "Dalam bahasa inggris, senter disebut flashlight yaa.",
+  :soal
+  {:soal-text "Apa bahasa inggris senter ?",
+   :options [[false "gas stove" 0] [false "iron" 1] [true "flashlight" 2] [false "television" 3]],
+   :jawaban "C"},
+  :problem-id "cddd58e598244ad0bb6f88f028a9eb08"}
+ {:topic :english,
+  :bahas "Dalam bahasa inggris, kulkas disebut refrigerator yaa.",
+  :soal
+  {:soal-text "Apa bahasa inggris kulkas ?",
+   :options [[true "refrigerator" 0] [false "washing machine" 1] [false "gas stove" 2] [false "toaster" 3]],
+   :jawaban "A"},
+  :problem-id "719a0562bc794af9a8c21bf630123adf"}
+ {:topic :english,
+  :bahas "Dalam bahasa inggris, penanak nasi disebut rice cooker yaa.",
+  :soal
+  {:soal-text "Apa bahasa inggris penanak nasi ?",
+   :options [[false "refrigerator" 0] [false "iron" 1] [false "television" 2] [true "rice cooker" 3]],
+   :jawaban "D"},
+  :problem-id "ff9a4ac007c64d4794c7167c86162710"}
+ {:topic :english,
+  :bahas "Dalam bahasa inggris, penanak nasi disebut rice cooker yaa.",
+  :soal
+  {:soal-text "Apa bahasa inggris penanak nasi ?",
+   :options [[false "washing machine" 0] [true "rice cooker" 1] [false "washing machine" 2] [false "toaster" 3]],
+   :jawaban "B"},
+  :problem-id "6a140074a9204f679d87dd55bcc70cf3"}
+ {:topic :english,
+  :bahas "Dalam bahasa inggris, pemanggang roti disebut toaster yaa.",
+  :soal
+  {:soal-text "Apa bahasa inggris pemanggang roti ?",
+   :options [[true "toaster" 0] [false "washing machine" 1] [false "washing machine" 2] [false "flashlight" 3]],
+   :jawaban "A"},
+  :problem-id "bc559a0078554df3b4f8abe808510ce9"}
+ {:topic :english,
+  :bahas "Dalam bahasa inggris, kulkas disebut refrigerator yaa.",
+  :soal
+  {:soal-text "Apa bahasa inggris kulkas ?",
+   :options [[true "refrigerator" 0] [false "washing machine" 1] [false "washing machine" 2] [false "gas stove" 3]],
+   :jawaban "A"},
+  :problem-id "8dd2e90970b04631882a71a4a9e7d9c6"}
+ {:topic :english,
+  :bahas "Dalam bahasa inggris, pemanggang roti disebut toaster yaa.",
+  :soal
+  {:soal-text "Apa bahasa inggris pemanggang roti ?",
+   :options [[false "refrigerator" 0] [false "flashlight" 1] [true "toaster" 2] [false "washing machine" 3]],
+   :jawaban "C"},
+  :problem-id "eb776e8b74ed49c6aec4c3e98b60afc3"}]

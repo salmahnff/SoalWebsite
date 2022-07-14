@@ -1,0 +1,114 @@
+[{:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 4 * 0",
+   :options [[false 1004 0] [false 104 1] [true 0 2] [false 54 3]],
+   :jawaban "C"},
+  :problem-id "238fc687571347229ddcf84b34f16c5e"}
+ {:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 10 * 8",
+   :options [[false 1010 0] [false 110 1] [true 80 2] [false 60 3]],
+   :jawaban "C"},
+  :problem-id "fdd94ef85ea3409a8e602c06c4868ea6"}
+ {:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 3 * 5",
+   :options [[true 15 0] [false 103 1] [false 53 2] [false 1003 3]],
+   :jawaban "A"},
+  :problem-id "769bc5bbd7b3482b8f39bc41eb2a00e0"}
+ {:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 5 * 7",
+   :options [[false 55 0] [true 35 1] [false 1005 2] [false 105 3]],
+   :jawaban "B"},
+  :problem-id "9fcd1f7e067045d08f0c7bd3eeec7c69"}
+ {:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 6 * 16",
+   :options [[false 56 0] [true 96 1] [false 1006 2] [false 106 3]],
+   :jawaban "B"},
+  :problem-id "ac5bcb5cd3614ff0a08a721c5449a514"}
+ {:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 2 * 15",
+   :options [[true 30 0] [false 52 1] [false 102 2] [false 1002 3]],
+   :jawaban "A"},
+  :problem-id "074e7d5061a640c184d0f86cd66ce094"}
+ {:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 4 * 16",
+   :options [[true 64 0] [false 54 1] [false 104 2] [false 1004 3]],
+   :jawaban "A"},
+  :problem-id "78ac516e9f754c8f8e6838f03d87cc74"}
+ {:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 6 * 13",
+   :options [[false 1006 0] [false 56 1] [true 78 2] [false 106 3]],
+   :jawaban "C"},
+  :problem-id "46be69516dfa41adb77023d195adc6a1"}
+ {:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 1 * 8",
+   :options [[true 8 0] [false 51 1] [false 1001 2] [false 101 3]],
+   :jawaban "A"},
+  :problem-id "607805a289904f86897fb38947e6ef7a"}
+ {:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 6 * 9",
+   :options [[true 54 0] [false 1006 1] [false 56 2] [false 106 3]],
+   :jawaban "A"},
+  :problem-id "0527dfee6e89464c9b628cf3a23c9a35"}
+ {:topic :math,
+  :bahas "Ingat dalam segitiga siku-siku berlaku teorema pythagoras.",
+  :soal
+  {:soal-text
+   "Jika c adalah sisi miring dari sebuah segitiga siku-siku, manakan nilai c yang sesuai jika diketahui kedua sisi lainnya adalah 22 dan 120 ",
+   :options [[false 125 0] [false 200 1] [true 122 2] [false 130 3]],
+   :jawaban "C"},
+  :problem-id "5d671759bb74433887ce6c7089895575"}
+ {:topic :math,
+  :bahas "Gampang aja, kerjain secara bertahap ya.",
+  :soal
+  {:soal-text "jika umur kakak adalah 6 dan umur adek adalah setengah umur kakak, berapakah umur adek 6 tahun lagi?",
+   :options [[false 25 0] [false 6 1] [false 39 2] [true 9 3]],
+   :jawaban "D"},
+  :problem-id "8a4cfa31bc6b4dc282edb6c9240b88c9"}
+ {:topic :math,
+  :bahas "Gampang aja, kerjain secara bertahap ya.",
+  :soal
+  {:soal-text "jika umur kakak adalah 4 dan umur adek adalah setengah umur kakak, berapakah umur adek 6 tahun lagi?",
+   :options [[false 5 0] [false 4 1] [true 8 2] [false 36 3]],
+   :jawaban "C"},
+  :problem-id "8c3f853e5b0240c096b305719372703d"}
+ {:topic :math,
+  :bahas "Gampang aja, kerjain secara bertahap ya.",
+  :soal
+  {:soal-text "jika umur kakak adalah 6 dan umur adek adalah setengah umur kakak, berapakah umur adek 6 tahun lagi?",
+   :options [[true 9 0] [false 48 1] [false 42 2] [false 6 3]],
+   :jawaban "A"},
+  :problem-id "e61d4571ce13478481ae6687c74bd534"}
+ {:topic :math,
+  :bahas "Gampang aja, kerjain secara bertahap ya.",
+  :soal
+  {:soal-text "jika umur kakak adalah 8 dan umur adek adalah setengah umur kakak, berapakah umur adek 6 tahun lagi?",
+   :options [[true 10 0] [false 7 1] [false 23 2] [false 34 3]],
+   :jawaban "A"},
+  :problem-id "34ba0c27116847399c88f2ee48ee0676"}
+ {:topic :math,
+  :bahas "Gampang aja, kerjain secara bertahap ya.",
+  :soal
+  {:soal-text "jika umur kakak adalah 12 dan umur adek adalah setengah umur kakak, berapakah umur adek 6 tahun lagi?",
+   :options [[false 22 0] [true 12 1] [false 5 2] [false 9 3]],
+   :jawaban "B"},
+  :problem-id "0918c743dfdb46e8bd7dfaf8fa5c5554"}]
+
